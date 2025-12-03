@@ -5,7 +5,10 @@
 
 package CH.ifa.draw.samples.nothing;
 
+import java.awt.Panel;
+
 import CH.ifa.draw.application.DrawApplication;
+import CH.ifa.draw.framework.Tool;
 
 public class NothingApp extends DrawApplication {
 
